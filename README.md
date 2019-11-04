@@ -1,0 +1,1 @@
+使用Maven简单的整合Spring+SpringMVC+Hibernate整体框架
