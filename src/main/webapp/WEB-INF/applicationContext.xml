@@ -11,4 +11,5 @@
     </context:component-scan>
 
     <import resource="classpath:spring-hibernate.xml" />
+    <import resource="classpath:spring-quartz.xml"/>
 </beans>
