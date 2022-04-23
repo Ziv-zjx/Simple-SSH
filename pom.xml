@@ -18,7 +18,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
 
-    <spring.version>4.0.2.RELEASE</spring.version>
+    <spring.version>5.3.19</spring.version>
     <hibernateVersion>4.3.5.Final</hibernateVersion>
     <mysqlVersion>5.1.6</mysqlVersion>
     <c3p0Version>0.9.1.2</c3p0Version>
